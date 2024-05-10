@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "456534401205",
+    "project_id": "app-compra-de-livros",
+    "storage_bucket": "app-compra-de-livros.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:456534401205:android:9b5af60ed5f7025eeedefc",
+        "android_client_info": {
+          "package_name": "com.example.APP2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "456534401205-qjoqakqtmgjf1rmq4mhtjj5le7465npd.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.APP2",
+            "certificate_hash": "40f0d614ef58c7972ce6e2f5f0c5bd3a9254ef72"
+          }
+        },
+        {
+          "client_id": "456534401205-dv634spgutares2b7fc2bvk7nj45m8id.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDpA_vumXg5sGVznksmATzamG2GW2f8f-o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "456534401205-dv634spgutares2b7fc2bvk7nj45m8id.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
